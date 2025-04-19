@@ -22,6 +22,6 @@ namespace api.Models
 
         public long MarketCap { get; set; } 
 
-        public List<Comment> Comments { get; set; } = new List<Comment>();// birden çok ilişkili olduğu için List kullanıyoruz.
+        public List<Comment> Comments { get; set; } = new List<Comment>();
     }
 }

@@ -1,0 +1,20 @@
+# Derleme klasörleri
+bin/
+obj/
+
+# Visual Studio ve VSCode klasörleri
+.vs/
+.vscode/
+
+# Geçici dosyalar
+*.user
+*.log
+*.cache
+
+# Veritabanı dosyaları
+*.db
+*.mdf
+*.ldf
+
+# Ortam dosyaları
+.env
